@@ -11,6 +11,8 @@ Refractor the site using the following ES6 features:
 
 Ensure all functionality remains.
 
+![Alt text](image.png)
+
 ## Getting Started
 Install the dependencies and run the project
 ```
