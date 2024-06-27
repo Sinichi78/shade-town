@@ -1,4 +1,4 @@
-## Practice Challenge in Scrimba
+# Practice Challenge in Scrimba
 
 Refractor the site using the following ES6 features:
 
@@ -11,7 +11,7 @@ Refractor the site using the following ES6 features:
 
 Ensure all functionality remains.
 
-# Getting Started
+## Getting Started
 Install the dependencies and run the project
 ```
 npm install
