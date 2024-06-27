@@ -1,3 +1,16 @@
+## Practice Challenge in Scrimba
+
+Refractor the site using the following ES6 features:
+
+- Template Literals 
+- Destructuring Objects
+- Spread Operator
+- Default Params
+- Let & Const, Filter Method
+- Import & Export
+
+Ensure all functionality remains.
+
 # Getting Started
 Install the dependencies and run the project
 ```
